@@ -1,7 +1,4 @@
 print("hello word")
-<<<<<<< HEAD
-print("it's mon second push ") test
-=======
 print("modification from local ")
 print("modification from github")
->>>>>>> dev
+
